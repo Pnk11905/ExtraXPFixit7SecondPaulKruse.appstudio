@@ -2,7 +2,7 @@
 let row = Number(prompt('Enter the number of rows'))
 let col = Number(prompt('Enter the number of colums'))
 
-//loop
+// for loop
 var x,y,chr;
 for(x=1; x <= row; x++)
 { chr=''
